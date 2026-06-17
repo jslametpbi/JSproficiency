@@ -1,0 +1,9 @@
+{
+  "name": "JS Proficiency Passport AI - Field Testing 78",
+  "short_name": "EPP Field78",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#081426",
+  "theme_color": "#0b1a31",
+  "description": "AI-integrated English proficiency platform field-testing edition with 78 participants."
+}
